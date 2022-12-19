@@ -1,7 +1,7 @@
 [
   {
     "name": "GCLOUD",
-    "url": "https://status.cloud.google.com/",
+    "url": "https://status.cloud.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.cloud.google.com.ico",
     "slug": "gcloud",
     "status": "up",
@@ -19,7 +19,7 @@
   },
   {
     "name": "AWS",
-    "url": "https://status.aws.amazon.com/",
+    "url": "https://status.aws.amazon.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.aws.amazon.com.ico",
     "slug": "aws",
     "status": "up",
@@ -37,7 +37,7 @@
   },
   {
     "name": "GITHUB",
-    "url": "https://www.githubstatus.com/",
+    "url": "https://www.githubstatus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "github",
     "status": "up",
@@ -72,21 +72,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Dead Man's Snith",
-    "url": "https://status.deadmanssnitch.com/",
+    "name": "Dead Mans Snith",
+    "url": "https://status.deadmanssnitch.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
-    "slug": "dead-man-s-snith",
+    "slug": "dead-mans-snith",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 319,
-    "timeWeek": 319,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
