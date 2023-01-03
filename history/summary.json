@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 76,
-    "timeWeek": 104,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "time": 153,
+    "timeDay": 61,
+    "timeWeek": 87,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 489,
+    "time": 703,
+    "timeDay": 690,
     "timeWeek": 757,
-    "timeMonth": 704,
-    "timeYear": 704,
+    "timeMonth": 703,
+    "timeYear": 703,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "github",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 247,
-    "timeDay": 297,
-    "timeWeek": 261,
-    "timeMonth": 247,
-    "timeYear": 247,
-    "dailyMinutesDown": {
-      "2023-01-02": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 243,
+    "timeDay": 278,
+    "timeWeek": 238,
+    "timeMonth": 243,
+    "timeYear": 243,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NewRelic",
@@ -61,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 308,
-    "timeDay": 287,
-    "timeWeek": 362,
-    "timeMonth": 308,
-    "timeYear": 308,
-    "dailyMinutesDown": {
-      "2023-01-02": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 311,
+    "timeDay": 358,
+    "timeWeek": 379,
+    "timeMonth": 311,
+    "timeYear": 311,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dead Mans Snith",
@@ -81,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 328,
-    "timeDay": 340,
-    "timeWeek": 358,
-    "timeMonth": 328,
-    "timeYear": 328,
-    "dailyMinutesDown": {
-      "2023-01-02": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 323,
+    "timeDay": 398,
+    "timeWeek": 360,
+    "timeMonth": 323,
+    "timeYear": 323,
+    "dailyMinutesDown": {}
   }
 ]
