@@ -40,19 +40,19 @@
     "url": "https://www.githubstatus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "github",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 198,
-    "timeWeek": 286,
-    "timeMonth": 271,
-    "timeYear": 271,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 274,
+    "timeDay": 268,
+    "timeWeek": 293,
+    "timeMonth": 274,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2023-01-16": 0
+      "2023-01-16": 7
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://status.newrelic.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 192,
-    "timeWeek": 315,
-    "timeMonth": 318,
-    "timeYear": 318,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 314,
+    "timeDay": 197,
+    "timeWeek": 300,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2023-01-16": 0
+      "2023-01-16": 7
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://status.deadmanssnitch.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 242,
-    "timeWeek": 313,
-    "timeMonth": 341,
-    "timeYear": 341,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 345,
+    "timeDay": 341,
+    "timeWeek": 329,
+    "timeMonth": 345,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2023-01-16": 0
+      "2023-01-16": 7
     }
   }
 ]
