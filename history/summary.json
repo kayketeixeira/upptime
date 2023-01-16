@@ -40,9 +40,9 @@
     "url": "https://www.githubstatus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "github",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +51,18 @@
     "timeWeek": 286,
     "timeMonth": 271,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-16": 0
+    }
   },
   {
     "name": "NewRelic",
     "url": "https://status.newrelic.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,14 +71,16 @@
     "timeWeek": 315,
     "timeMonth": 318,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-16": 0
+    }
   },
   {
     "name": "Dead Mans Snith",
     "url": "https://status.deadmanssnitch.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +91,8 @@
     "timeWeek": 313,
     "timeMonth": 341,
     "timeYear": 341,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-16": 0
+    }
   }
 ]
