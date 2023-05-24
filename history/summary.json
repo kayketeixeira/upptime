@@ -42,8 +42,8 @@
     "slug": "github",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 300,
@@ -52,7 +52,7 @@
     "timeMonth": 325,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2023-05-24": 0,
+      "2023-05-24": 2,
       "2023-04-20": 53,
       "2023-03-24": 18,
       "2023-02-27": 27
@@ -65,8 +65,8 @@
     "slug": "new-relic",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 308,
@@ -75,7 +75,7 @@
     "timeMonth": 303,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-05-24": 0,
+      "2023-05-24": 2,
       "2023-04-20": 53,
       "2023-03-24": 18,
       "2023-02-27": 27
@@ -88,8 +88,8 @@
     "slug": "dead-mans-snith",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 654,
@@ -98,7 +98,7 @@
     "timeMonth": 379,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2023-05-24": 0,
+      "2023-05-24": 2,
       "2023-04-20": 53,
       "2023-03-24": 18,
       "2023-02-27": 27
