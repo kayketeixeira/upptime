@@ -4,7 +4,7 @@
     "url": "https://status.cloud.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.cloud.google.com.ico",
     "slug": "gcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 329,
     "timeMonth": 164,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-16": 0
+    }
   },
   {
     "name": "AWS",
