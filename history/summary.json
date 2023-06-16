@@ -4,19 +4,19 @@
     "url": "https://status.cloud.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.cloud.google.com.ico",
     "slug": "gcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 866,
-    "timeWeek": 329,
-    "timeMonth": 164,
-    "timeYear": 158,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 157,
+    "timeDay": 500,
+    "timeWeek": 304,
+    "timeMonth": 163,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2023-06-16": 0
+      "2023-06-16": 18
     }
   },
   {
