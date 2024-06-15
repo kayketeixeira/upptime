@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 70,
-    "timeWeek": 489,
-    "timeMonth": 206,
+    "timeDay": 97,
+    "timeWeek": 498,
+    "timeMonth": 207,
     "timeYear": 141,
-    "dailyMinutesDown": {
-      "2023-06-16": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AWS",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 623,
-    "timeDay": 348,
-    "timeWeek": 441,
-    "timeMonth": 494,
-    "timeYear": 593,
+    "timeDay": 742,
+    "timeWeek": 476,
+    "timeMonth": 495,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 198,
-    "timeWeek": 126,
-    "timeMonth": 153,
+    "timeDay": 267,
+    "timeWeek": 154,
+    "timeMonth": 155,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -66,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 227,
-    "timeWeek": 193,
-    "timeMonth": 204,
+    "time": 314,
+    "timeDay": 222,
+    "timeWeek": 202,
+    "timeMonth": 202,
     "timeYear": 304,
     "dailyMinutesDown": {}
   },
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 215,
-    "timeWeek": 279,
-    "timeMonth": 330,
+    "timeDay": 359,
+    "timeWeek": 310,
+    "timeMonth": 332,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2023-07-04": 20
