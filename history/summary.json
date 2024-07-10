@@ -22,18 +22,20 @@
     "url": "https://status.aws.amazon.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.aws.amazon.com.ico",
     "slug": "aws",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 619,
+    "time": 618,
     "timeDay": 436,
     "timeWeek": 545,
     "timeMonth": 579,
     "timeYear": 588,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 0
+    }
   },
   {
     "name": "GITHUB",
