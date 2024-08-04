@@ -76,19 +76,19 @@
     "url": "https://status.deadmanssnitch.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 491,
-    "timeWeek": 386,
-    "timeMonth": 353,
+    "timeDay": 381,
+    "timeWeek": 371,
+    "timeMonth": 350,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2024-08-04": 0
+      "2024-08-04": 13
     }
   }
 ]
