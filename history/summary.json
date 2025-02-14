@@ -42,53 +42,59 @@
     "url": "https://www.githubstatus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "github",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 277,
-    "timeWeek": 250,
-    "timeMonth": 226,
+    "timeDay": 218,
+    "timeWeek": 238,
+    "timeMonth": 223,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-14": 0
+    }
   },
   {
     "name": "NewRelic",
     "url": "https://status.newrelic.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 204,
-    "timeWeek": 230,
-    "timeMonth": 225,
-    "timeYear": 254,
-    "dailyMinutesDown": {}
+    "timeDay": 159,
+    "timeWeek": 215,
+    "timeMonth": 221,
+    "timeYear": 253,
+    "dailyMinutesDown": {
+      "2025-02-14": 0
+    }
   },
   {
     "name": "Dead Mans Snith",
     "url": "https://status.deadmanssnitch.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 360,
-    "timeDay": 492,
-    "timeWeek": 372,
-    "timeMonth": 346,
-    "timeYear": 354,
-    "dailyMinutesDown": {}
+    "timeDay": 325,
+    "timeWeek": 346,
+    "timeMonth": 340,
+    "timeYear": 353,
+    "dailyMinutesDown": {
+      "2025-02-14": 0
+    }
   }
 ]
