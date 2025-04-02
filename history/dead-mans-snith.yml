@@ -1,7 +1,7 @@
 url: https://status.deadmanssnitch.com
-status: down
-code: 503
-responseTime: 244
-lastUpdated: 2025-04-02T13:49:42.856Z
+status: up
+code: 200
+responseTime: 451
+lastUpdated: 2025-04-02T13:56:32.711Z
 startTime: 2022-12-19T23:10:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
