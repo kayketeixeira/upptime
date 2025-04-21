@@ -1,7 +1,7 @@
 url: https://status.newrelic.com
-status: down
-code: 405
-responseTime: 190
-lastUpdated: 2025-04-21T22:09:33.631Z
+status: up
+code: 200
+responseTime: 286
+lastUpdated: 2025-04-21T22:30:52.000Z
 startTime: 2022-12-19T18:15:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
