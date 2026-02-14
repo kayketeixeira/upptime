@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 58,
-    "timeWeek": 143,
-    "timeMonth": 129,
+    "timeDay": 95,
+    "timeWeek": 141,
+    "timeMonth": 128,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 451,
-    "timeDay": 258,
-    "timeWeek": 489,
-    "timeMonth": 463,
-    "timeYear": 468,
+    "timeDay": 413,
+    "timeWeek": 510,
+    "timeMonth": 459,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2025-04-14": 19
     }
@@ -47,10 +47,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.34%",
-    "time": 225,
-    "timeDay": 270,
-    "timeWeek": 168,
+    "uptimeYear": "86.35%",
+    "time": 224,
+    "timeDay": 101,
+    "timeWeek": 172,
     "timeMonth": 171,
     "timeYear": 225,
     "dailyMinutesDown": {
@@ -135,8 +135,7 @@
       "2025-02-26": 3,
       "2025-02-24": 17,
       "2025-02-22": 17,
-      "2025-02-20": 17,
-      "2025-02-14": 76
+      "2025-02-20": 17
     }
   },
   {
@@ -149,11 +148,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "86.33%",
+    "uptimeYear": "86.34%",
     "time": 262,
-    "timeDay": 140,
-    "timeWeek": 186,
-    "timeMonth": 171,
+    "timeDay": 178,
+    "timeWeek": 193,
+    "timeMonth": 172,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2026-01-31": 25,
@@ -239,8 +238,7 @@
       "2025-02-26": 3,
       "2025-02-24": 17,
       "2025-02-22": 17,
-      "2025-02-20": 17,
-      "2025-02-14": 76
+      "2025-02-20": 17
     }
   },
   {
@@ -249,16 +247,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
     "status": "up",
-    "uptime": "96.31%",
+    "uptime": "96.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "88.41%",
+    "uptimeYear": "88.42%",
     "time": 554,
-    "timeDay": 386,
-    "timeWeek": 2854,
-    "timeMonth": 1067,
-    "timeYear": 604,
+    "timeDay": 445,
+    "timeWeek": 2882,
+    "timeMonth": 1069,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2026-02-08": 29,
       "2025-12-16": 20,
@@ -341,8 +339,7 @@
       "2025-02-26": 3,
       "2025-02-24": 17,
       "2025-02-22": 17,
-      "2025-02-20": 17,
-      "2025-02-14": 76
+      "2025-02-20": 17
     }
   }
 ]
