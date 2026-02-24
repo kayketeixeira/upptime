@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 229,
-    "timeWeek": 160,
-    "timeMonth": 156,
+    "timeDay": 132,
+    "timeWeek": 165,
+    "timeMonth": 157,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 1058,
-    "timeWeek": 541,
-    "timeMonth": 497,
-    "timeYear": 473,
+    "time": 460,
+    "timeDay": 4280,
+    "timeWeek": 1101,
+    "timeMonth": 623,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2025-04-14": 19
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.36%",
-    "time": 221,
-    "timeDay": 165,
-    "timeWeek": 171,
-    "timeMonth": 158,
-    "timeYear": 225,
+    "time": 227,
+    "timeDay": 3959,
+    "timeWeek": 721,
+    "timeMonth": 281,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2025-10-29": 20,
       "2025-10-24": 218,
@@ -132,8 +132,7 @@
       "2025-03-05": 92,
       "2025-03-01": 18,
       "2025-02-27": 65,
-      "2025-02-26": 3,
-      "2025-02-24": 17
+      "2025-02-26": 3
     }
   },
   {
@@ -142,16 +141,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
     "status": "up",
-    "uptime": "95.69%",
+    "uptime": "95.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "86.35%",
-    "time": 261,
-    "timeDay": 197,
-    "timeWeek": 204,
-    "timeMonth": 183,
-    "timeYear": 267,
+    "time": 266,
+    "timeDay": 3662,
+    "timeWeek": 699,
+    "timeMonth": 284,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2026-01-31": 25,
       "2025-11-06": 17,
@@ -233,8 +232,7 @@
       "2025-03-05": 92,
       "2025-03-01": 18,
       "2025-02-27": 65,
-      "2025-02-26": 3,
-      "2025-02-24": 17
+      "2025-02-26": 3
     }
   },
   {
@@ -249,10 +247,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "88.43%",
     "time": 555,
-    "timeDay": 357,
-    "timeWeek": 387,
-    "timeMonth": 1067,
-    "timeYear": 612,
+    "timeDay": 372,
+    "timeWeek": 390,
+    "timeMonth": 1064,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2026-02-08": 29,
       "2025-12-16": 20,
@@ -332,8 +330,7 @@
       "2025-03-05": 92,
       "2025-03-01": 18,
       "2025-02-27": 65,
-      "2025-02-26": 3,
-      "2025-02-24": 17
+      "2025-02-26": 3
     }
   }
 ]
