@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 152,
-    "timeWeek": 181,
+    "timeDay": 236,
+    "timeWeek": 180,
     "timeMonth": 165,
     "timeYear": 163,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 460,
-    "timeDay": 590,
-    "timeWeek": 1173,
-    "timeMonth": 633,
-    "timeYear": 486,
+    "timeDay": 786,
+    "timeWeek": 1198,
+    "timeMonth": 648,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2025-04-14": 19
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "github",
     "status": "up",
-    "uptime": "95.71%",
+    "uptime": "95.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.38%",
     "time": 227,
-    "timeDay": 436,
-    "timeWeek": 756,
-    "timeMonth": 296,
-    "timeYear": 234,
+    "timeDay": 296,
+    "timeWeek": 774,
+    "timeMonth": 319,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2025-10-29": 20,
       "2025-10-24": 218,
@@ -129,8 +129,7 @@
       "2025-03-23": 22,
       "2025-03-15": 16,
       "2025-03-10": 17,
-      "2025-03-05": 92,
-      "2025-03-01": 18
+      "2025-03-05": 92
     }
   },
   {
@@ -139,16 +138,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
     "status": "up",
-    "uptime": "95.71%",
+    "uptime": "95.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "86.37%",
     "time": 265,
-    "timeDay": 302,
+    "timeDay": 249,
     "timeWeek": 709,
-    "timeMonth": 288,
-    "timeYear": 276,
+    "timeMonth": 318,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2026-01-31": 25,
       "2025-11-06": 17,
@@ -227,8 +226,7 @@
       "2025-03-23": 22,
       "2025-03-15": 16,
       "2025-03-10": 17,
-      "2025-03-05": 92,
-      "2025-03-01": 18
+      "2025-03-05": 92
     }
   },
   {
@@ -242,11 +240,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "88.45%",
-    "time": 555,
-    "timeDay": 357,
-    "timeWeek": 356,
-    "timeMonth": 1055,
-    "timeYear": 620,
+    "time": 556,
+    "timeDay": 519,
+    "timeWeek": 376,
+    "timeMonth": 1133,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2026-02-08": 29,
       "2025-12-16": 20,
@@ -323,8 +321,7 @@
       "2025-03-23": 22,
       "2025-03-15": 16,
       "2025-03-10": 17,
-      "2025-03-05": 92,
-      "2025-03-01": 18
+      "2025-03-05": 92
     }
   }
 ]
