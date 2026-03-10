@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 159,
-    "timeWeek": 152,
-    "timeMonth": 176,
+    "timeDay": 118,
+    "timeWeek": 141,
+    "timeMonth": 175,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
-    "timeDay": 439,
-    "timeWeek": 480,
-    "timeMonth": 672,
+    "timeDay": 449,
+    "timeWeek": 442,
+    "timeMonth": 666,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2025-04-14": 19
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.40%",
     "time": 228,
-    "timeDay": 148,
-    "timeWeek": 180,
-    "timeMonth": 328,
+    "timeDay": 88,
+    "timeWeek": 148,
+    "timeMonth": 326,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-10-29": 20,
@@ -127,8 +127,7 @@
       "2025-03-28": 36,
       "2025-03-27": 63,
       "2025-03-23": 22,
-      "2025-03-15": 16,
-      "2025-03-10": 17
+      "2025-03-15": 16
     }
   },
   {
@@ -142,10 +141,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.39%",
-    "time": 265,
-    "timeDay": 174,
-    "timeWeek": 176,
-    "timeMonth": 322,
+    "time": 264,
+    "timeDay": 124,
+    "timeWeek": 164,
+    "timeMonth": 318,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2026-01-31": 25,
@@ -223,8 +222,7 @@
       "2025-03-28": 36,
       "2025-03-27": 63,
       "2025-03-23": 22,
-      "2025-03-15": 16,
-      "2025-03-10": 17
+      "2025-03-15": 16
     }
   },
   {
@@ -239,10 +237,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.47%",
     "time": 588,
-    "timeDay": 380,
-    "timeWeek": 401,
-    "timeMonth": 414,
-    "timeYear": 637,
+    "timeDay": 425,
+    "timeWeek": 388,
+    "timeMonth": 411,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2026-02-08": 29,
       "2025-12-16": 20,
@@ -317,8 +315,7 @@
       "2025-03-28": 37,
       "2025-03-27": 63,
       "2025-03-23": 22,
-      "2025-03-15": 16,
-      "2025-03-10": 17
+      "2025-03-15": 16
     }
   }
 ]
