@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 64,
-    "timeWeek": 129,
-    "timeMonth": 147,
+    "timeDay": 143,
+    "timeWeek": 134,
+    "timeMonth": 144,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 465,
-    "timeDay": 269,
-    "timeWeek": 498,
-    "timeMonth": 484,
-    "timeYear": 489,
+    "timeDay": 437,
+    "timeWeek": 512,
+    "timeMonth": 473,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2025-04-14": 19
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.43%",
     "time": 228,
-    "timeDay": 143,
-    "timeWeek": 218,
-    "timeMonth": 188,
+    "timeDay": 84,
+    "timeWeek": 202,
+    "timeMonth": 181,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2025-10-29": 20,
@@ -122,8 +122,7 @@
       "2025-04-12": 18,
       "2025-04-11": 19,
       "2025-04-08": 16,
-      "2025-04-06": 20,
-      "2025-04-01": 16
+      "2025-04-06": 20
     }
   },
   {
@@ -132,15 +131,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
     "status": "up",
-    "uptime": "95.82%",
+    "uptime": "95.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.42%",
     "time": 263,
-    "timeDay": 86,
-    "timeWeek": 192,
-    "timeMonth": 190,
+    "timeDay": 122,
+    "timeWeek": 177,
+    "timeMonth": 186,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2026-01-31": 25,
@@ -213,8 +212,7 @@
       "2025-04-12": 18,
       "2025-04-11": 19,
       "2025-04-08": 16,
-      "2025-04-06": 20,
-      "2025-04-01": 16
+      "2025-04-06": 20
     }
   },
   {
@@ -223,15 +221,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
     "status": "up",
-    "uptime": "96.45%",
+    "uptime": "96.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "88.49%",
     "time": 591,
-    "timeDay": 490,
+    "timeDay": 343,
     "timeWeek": 458,
-    "timeMonth": 432,
+    "timeMonth": 427,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2026-03-23": 41,
@@ -303,8 +301,7 @@
       "2025-04-12": 18,
       "2025-04-11": 19,
       "2025-04-08": 16,
-      "2025-04-06": 20,
-      "2025-04-01": 16
+      "2025-04-06": 20
     }
   }
 ]
