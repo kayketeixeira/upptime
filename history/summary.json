@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 131,
-    "timeWeek": 136,
-    "timeMonth": 139,
+    "timeDay": 130,
+    "timeWeek": 135,
+    "timeMonth": 138,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 466,
-    "timeDay": 471,
-    "timeWeek": 420,
-    "timeMonth": 450,
+    "timeDay": 298,
+    "timeWeek": 400,
+    "timeMonth": 448,
     "timeYear": 490,
     "dailyMinutesDown": {
       "2025-04-14": 19
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.43%",
-    "time": 233,
-    "timeDay": 97,
-    "timeWeek": 168,
-    "timeMonth": 174,
+    "time": 232,
+    "timeDay": 130,
+    "timeWeek": 174,
+    "timeMonth": 176,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2025-10-29": 20,
@@ -120,8 +120,7 @@
       "2025-04-21": 21,
       "2025-04-14": 44,
       "2025-04-12": 18,
-      "2025-04-11": 19,
-      "2025-04-08": 16
+      "2025-04-11": 19
     }
   },
   {
@@ -135,10 +134,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.43%",
-    "time": 275,
-    "timeDay": 146,
-    "timeWeek": 200,
-    "timeMonth": 189,
+    "time": 274,
+    "timeDay": 304,
+    "timeWeek": 226,
+    "timeMonth": 196,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2026-01-31": 25,
@@ -209,8 +208,7 @@
       "2025-04-21": 21,
       "2025-04-14": 44,
       "2025-04-12": 18,
-      "2025-04-11": 19,
-      "2025-04-08": 16
+      "2025-04-11": 19
     }
   },
   {
@@ -219,16 +217,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
     "status": "up",
-    "uptime": "96.47%",
+    "uptime": "96.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "88.50%",
-    "time": 592,
-    "timeDay": 385,
-    "timeWeek": 423,
-    "timeMonth": 424,
-    "timeYear": 629,
+    "time": 593,
+    "timeDay": 481,
+    "timeWeek": 443,
+    "timeMonth": 432,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2026-03-23": 41,
       "2026-02-08": 29,
@@ -297,8 +295,7 @@
       "2025-04-17": 15,
       "2025-04-14": 44,
       "2025-04-12": 18,
-      "2025-04-11": 19,
-      "2025-04-08": 16
+      "2025-04-11": 19
     }
   }
 ]
