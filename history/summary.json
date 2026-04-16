@@ -22,9 +22,9 @@
     "url": "https://status.aws.amazon.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.aws.amazon.com.ico",
     "slug": "aws",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 533,
     "timeMonth": 461,
     "timeYear": 492,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-16": 0
+    }
   },
   {
     "name": "GITHUB",
@@ -133,7 +135,7 @@
     "timeDay": 152,
     "timeWeek": 259,
     "timeMonth": 212,
-    "timeYear": 243,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2026-01-31": 25,
       "2025-11-06": 17,
@@ -211,14 +213,14 @@
     "status": "up",
     "uptime": "96.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.19%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "88.50%",
     "time": 594,
     "timeDay": 257,
-    "timeWeek": 410,
+    "timeWeek": 408,
     "timeMonth": 428,
-    "timeYear": 642,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2026-04-09": 81,
       "2026-03-23": 41,
