@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 290,
-    "timeWeek": 132,
-    "timeMonth": 134,
+    "time": 162,
+    "timeDay": 100,
+    "timeWeek": 133,
+    "timeMonth": 136,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -25,13 +25,13 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 470,
-    "timeDay": 664,
-    "timeWeek": 539,
-    "timeMonth": 493,
+    "timeDay": 453,
+    "timeWeek": 542,
+    "timeMonth": 497,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2026-04-16": 38
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "github",
     "status": "up",
-    "uptime": "95.90%",
+    "uptime": "95.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.46%",
     "time": 232,
-    "timeDay": 242,
-    "timeWeek": 188,
-    "timeMonth": 186,
+    "timeDay": 125,
+    "timeWeek": 174,
+    "timeMonth": 183,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2025-10-29": 20,
@@ -115,8 +115,7 @@
       "2025-05-11": 16,
       "2025-05-09": 28,
       "2025-05-06": 23,
-      "2025-05-04": 18,
-      "2025-04-24": 17
+      "2025-05-04": 18
     }
   },
   {
@@ -125,15 +124,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
     "status": "up",
-    "uptime": "95.90%",
+    "uptime": "95.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.45%",
     "time": 279,
-    "timeDay": 2076,
-    "timeWeek": 480,
-    "timeMonth": 279,
+    "timeDay": 262,
+    "timeWeek": 496,
+    "timeMonth": 281,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2026-01-31": 25,
@@ -199,8 +198,7 @@
       "2025-05-11": 16,
       "2025-05-09": 28,
       "2025-05-06": 23,
-      "2025-05-04": 18,
-      "2025-04-24": 17
+      "2025-05-04": 18
     }
   },
   {
@@ -212,12 +210,12 @@
     "uptime": "96.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "88.51%",
     "time": 627,
-    "timeDay": 566,
-    "timeWeek": 439,
-    "timeMonth": 434,
+    "timeDay": 414,
+    "timeWeek": 430,
+    "timeMonth": 435,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2026-04-09": 81,
@@ -282,8 +280,7 @@
       "2025-05-11": 16,
       "2025-05-09": 28,
       "2025-05-06": 23,
-      "2025-05-04": 18,
-      "2025-04-24": 17
+      "2025-05-04": 18
     }
   }
 ]
