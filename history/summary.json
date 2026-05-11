@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 39,
-    "timeWeek": 103,
-    "timeMonth": 129,
+    "timeDay": 44,
+    "timeWeek": 88,
+    "timeMonth": 124,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 471,
-    "timeDay": 302,
-    "timeWeek": 335,
-    "timeMonth": 468,
+    "time": 470,
+    "timeDay": 400,
+    "timeWeek": 341,
+    "timeMonth": 465,
     "timeYear": 492,
     "dailyMinutesDown": {
       "2026-04-16": 38
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.47%",
     "time": 232,
-    "timeDay": 108,
-    "timeWeek": 152,
+    "timeDay": 161,
+    "timeWeek": 162,
     "timeMonth": 190,
     "timeYear": 238,
     "dailyMinutesDown": {
@@ -111,8 +111,7 @@
       "2025-08-29": 33,
       "2025-08-28": 40,
       "2025-08-27": 25,
-      "2025-08-26": 22,
-      "2025-05-11": 16
+      "2025-08-26": 22
     }
   },
   {
@@ -126,10 +125,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.46%",
-    "time": 270,
-    "timeDay": 175,
-    "timeWeek": 184,
-    "timeMonth": 290,
+    "time": 271,
+    "timeDay": 203,
+    "timeWeek": 186,
+    "timeMonth": 287,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2026-01-31": 25,
@@ -191,8 +190,7 @@
       "2025-08-29": 34,
       "2025-08-28": 40,
       "2025-08-27": 25,
-      "2025-08-26": 22,
-      "2025-05-11": 16
+      "2025-08-26": 22
     }
   },
   {
@@ -201,15 +199,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
     "status": "up",
-    "uptime": "96.56%",
+    "uptime": "96.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.52%",
     "time": 597,
-    "timeDay": 373,
-    "timeWeek": 391,
-    "timeMonth": 412,
+    "timeDay": 326,
+    "timeWeek": 382,
+    "timeMonth": 407,
     "timeYear": 668,
     "dailyMinutesDown": {
       "2026-04-09": 81,
@@ -270,8 +268,7 @@
       "2025-08-27": 25,
       "2025-08-26": 22,
       "2025-08-11": 22,
-      "2025-05-15": 17,
-      "2025-05-11": 16
+      "2025-05-15": 17
     }
   }
 ]
