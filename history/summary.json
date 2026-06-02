@@ -42,17 +42,17 @@
     "url": "https://www.githubstatus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "github",
-    "status": "down",
-    "uptime": "96.01%",
-    "uptimeDay": "64.62%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "86.38%",
+    "status": "up",
+    "uptime": "96.00%",
+    "uptimeDay": "57.28%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "86.36%",
     "time": 230,
-    "timeDay": 172,
-    "timeWeek": 166,
-    "timeMonth": 182,
-    "timeYear": 232,
+    "timeDay": 149,
+    "timeWeek": 157,
+    "timeMonth": 178,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2025-08-26": 22,
       "2025-08-27": 25,
@@ -112,7 +112,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-10-29": 20,
-      "2026-06-02": 510
+      "2026-06-02": 615
     }
   },
   {
@@ -120,16 +120,16 @@
     "url": "https://status.newrelic.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
-    "status": "down",
-    "uptime": "96.01%",
-    "uptimeDay": "64.65%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "86.37%",
+    "status": "up",
+    "uptime": "96.00%",
+    "uptimeDay": "57.31%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "86.35%",
     "time": 241,
-    "timeDay": 166,
-    "timeWeek": 188,
-    "timeMonth": 198,
+    "timeDay": 188,
+    "timeWeek": 196,
+    "timeMonth": 200,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2025-08-26": 22,
@@ -192,7 +192,7 @@
       "2025-10-29": 20,
       "2025-11-06": 17,
       "2026-01-31": 25,
-      "2026-06-02": 509
+      "2026-06-02": 615
     }
   },
   {
@@ -200,15 +200,15 @@
     "url": "https://status.deadmanssnitch.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
-    "status": "down",
-    "uptime": "96.60%",
-    "uptimeDay": "64.68%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "88.43%",
+    "status": "up",
+    "uptime": "96.59%",
+    "uptimeDay": "57.33%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "88.41%",
     "time": 600,
-    "timeDay": 189,
-    "timeWeek": 290,
+    "timeDay": 231,
+    "timeWeek": 299,
     "timeMonth": 384,
     "timeYear": 674,
     "dailyMinutesDown": {
@@ -270,7 +270,7 @@
       "2026-02-08": 29,
       "2026-03-23": 41,
       "2026-04-09": 81,
-      "2026-06-02": 508
+      "2026-06-02": 614
     }
   }
 ]
