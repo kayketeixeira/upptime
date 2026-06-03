@@ -44,10 +44,10 @@
     "slug": "github",
     "status": "down",
     "uptime": "96.00%",
-    "uptimeDay": "57.24%",
-    "uptimeWeek": "93.89%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "86.36%",
+    "uptimeDay": "48.35%",
+    "uptimeWeek": "92.62%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "86.33%",
     "time": 230,
     "timeDay": 99,
     "timeWeek": 139,
@@ -113,7 +113,7 @@
       "2025-09-05": 1440,
       "2025-10-29": 20,
       "2026-06-02": 615,
-      "2026-06-03": 1
+      "2026-06-03": 129
     }
   },
   {
@@ -122,11 +122,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
     "status": "down",
-    "uptime": "96.00%",
-    "uptimeDay": "57.28%",
-    "uptimeWeek": "93.90%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "86.35%",
+    "uptime": "95.99%",
+    "uptimeDay": "48.39%",
+    "uptimeWeek": "92.63%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "86.33%",
     "time": 241,
     "timeDay": 138,
     "timeWeek": 172,
@@ -194,7 +194,7 @@
       "2025-11-06": 17,
       "2026-01-31": 25,
       "2026-06-02": 615,
-      "2026-06-03": 0
+      "2026-06-03": 128
     }
   },
   {
@@ -204,10 +204,10 @@
     "slug": "dead-mans-snith",
     "status": "down",
     "uptime": "96.59%",
-    "uptimeDay": "57.31%",
-    "uptimeWeek": "93.90%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "88.41%",
+    "uptimeDay": "48.43%",
+    "uptimeWeek": "92.63%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "88.39%",
     "time": 599,
     "timeDay": 155,
     "timeWeek": 257,
@@ -273,7 +273,7 @@
       "2026-03-23": 41,
       "2026-04-09": 81,
       "2026-06-02": 614,
-      "2026-06-03": 0
+      "2026-06-03": 128
     }
   }
 ]
