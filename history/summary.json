@@ -42,16 +42,16 @@
     "url": "https://www.githubstatus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "github",
-    "status": "up",
+    "status": "down",
     "uptime": "95.99%",
-    "uptimeDay": "88.25%",
-    "uptimeWeek": "91.02%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "91.01%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "86.30%",
     "time": 230,
-    "timeDay": 216,
-    "timeWeek": 148,
-    "timeMonth": 172,
+    "timeDay": 162,
+    "timeWeek": 138,
+    "timeMonth": 168,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2025-08-26": 22,
@@ -113,7 +113,8 @@
       "2025-09-05": 1440,
       "2025-10-29": 20,
       "2026-06-02": 615,
-      "2026-06-03": 290
+      "2026-06-03": 290,
+      "2026-06-04": 1
     }
   },
   {
@@ -121,16 +122,16 @@
     "url": "https://status.newrelic.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
-    "status": "up",
+    "status": "down",
     "uptime": "95.99%",
-    "uptimeDay": "88.25%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "91.02%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "86.29%",
     "time": 240,
-    "timeDay": 138,
-    "timeWeek": 164,
-    "timeMonth": 188,
+    "timeDay": 100,
+    "timeWeek": 154,
+    "timeMonth": 184,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-08-26": 22,
@@ -194,7 +195,8 @@
       "2025-11-06": 17,
       "2026-01-31": 25,
       "2026-06-02": 615,
-      "2026-06-03": 290
+      "2026-06-03": 290,
+      "2026-06-04": 0
     }
   },
   {
@@ -202,17 +204,17 @@
     "url": "https://status.deadmanssnitch.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
-    "status": "up",
+    "status": "down",
     "uptime": "96.58%",
-    "uptimeDay": "88.25%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "91.03%",
-    "uptimeMonth": "97.94%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "88.36%",
-    "time": 600,
-    "timeDay": 486,
-    "timeWeek": 297,
-    "timeMonth": 381,
-    "timeYear": 673,
+    "time": 599,
+    "timeDay": 244,
+    "timeWeek": 278,
+    "timeMonth": 372,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2025-08-11": 22,
       "2025-08-26": 22,
@@ -273,7 +275,8 @@
       "2026-03-23": 41,
       "2026-04-09": 81,
       "2026-06-02": 614,
-      "2026-06-03": 290
+      "2026-06-03": 290,
+      "2026-06-04": 0
     }
   }
 ]
