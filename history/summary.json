@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "github",
     "status": "down",
-    "uptime": "95.99%",
-    "uptimeDay": "93.62%",
-    "uptimeWeek": "90.11%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "86.29%",
+    "uptime": "95.98%",
+    "uptimeDay": "87.09%",
+    "uptimeWeek": "89.17%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "86.27%",
     "time": 229,
     "timeDay": 108,
     "timeWeek": 137,
@@ -115,7 +115,7 @@
       "2026-06-02": 615,
       "2026-06-03": 290,
       "2026-06-04": 91,
-      "2026-06-05": 1
+      "2026-06-05": 95
     }
   },
   {
@@ -124,11 +124,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
     "status": "down",
-    "uptime": "95.99%",
-    "uptimeDay": "93.65%",
-    "uptimeWeek": "90.12%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "86.28%",
+    "uptime": "95.98%",
+    "uptimeDay": "87.12%",
+    "uptimeWeek": "89.18%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "86.26%",
     "time": 239,
     "timeDay": 112,
     "timeWeek": 145,
@@ -198,7 +198,7 @@
       "2026-06-02": 615,
       "2026-06-03": 290,
       "2026-06-04": 91,
-      "2026-06-05": 0
+      "2026-06-05": 95
     }
   },
   {
@@ -207,11 +207,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
     "status": "down",
-    "uptime": "96.58%",
-    "uptimeDay": "93.68%",
-    "uptimeWeek": "90.12%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "88.34%",
+    "uptime": "96.57%",
+    "uptimeDay": "87.14%",
+    "uptimeWeek": "89.19%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "88.32%",
     "time": 599,
     "timeDay": 232,
     "timeWeek": 272,
@@ -279,7 +279,7 @@
       "2026-06-02": 614,
       "2026-06-03": 290,
       "2026-06-04": 91,
-      "2026-06-05": 0
+      "2026-06-05": 94
     }
   }
 ]
