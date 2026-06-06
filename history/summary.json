@@ -22,20 +22,20 @@
     "url": "https://status.aws.amazon.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.aws.amazon.com.ico",
     "slug": "aws",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
     "time": 471,
-    "timeDay": 621,
-    "timeWeek": 410,
-    "timeMonth": 398,
+    "timeDay": 485,
+    "timeWeek": 403,
+    "timeMonth": 397,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2026-04-16": 38,
-      "2026-06-06": 0
+      "2026-06-06": 59
     }
   },
   {
