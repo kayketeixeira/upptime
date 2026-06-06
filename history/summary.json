@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 48,
-    "timeWeek": 100,
-    "timeMonth": 126,
-    "timeYear": 156,
+    "time": 155,
+    "timeDay": 77,
+    "timeWeek": 109,
+    "timeMonth": 127,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 471,
-    "timeDay": 274,
-    "timeWeek": 368,
-    "timeMonth": 388,
+    "time": 472,
+    "timeDay": 448,
+    "timeWeek": 410,
+    "timeMonth": 398,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2026-04-16": 38
@@ -42,17 +42,17 @@
     "url": "https://www.githubstatus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "github",
-    "status": "up",
+    "status": "down",
     "uptime": "95.97%",
-    "uptimeDay": "69.14%",
+    "uptimeDay": "69.10%",
     "uptimeWeek": "85.70%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "86.20%",
     "time": 229,
-    "timeDay": 121,
-    "timeWeek": 135,
-    "timeMonth": 162,
-    "timeYear": 228,
+    "timeDay": 111,
+    "timeWeek": 131,
+    "timeMonth": 155,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2025-08-26": 22,
       "2025-08-27": 25,
@@ -115,7 +115,8 @@
       "2026-06-02": 615,
       "2026-06-03": 290,
       "2026-06-04": 91,
-      "2026-06-05": 445
+      "2026-06-05": 445,
+      "2026-06-06": 1
     }
   },
   {
@@ -123,17 +124,17 @@
     "url": "https://status.newrelic.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.newrelic.com.ico",
     "slug": "new-relic",
-    "status": "up",
+    "status": "down",
     "uptime": "95.97%",
-    "uptimeDay": "69.18%",
-    "uptimeWeek": "85.72%",
+    "uptimeDay": "69.15%",
+    "uptimeWeek": "85.71%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "86.19%",
     "time": 238,
-    "timeDay": 140,
-    "timeWeek": 147,
-    "timeMonth": 177,
-    "timeYear": 241,
+    "timeDay": 128,
+    "timeWeek": 142,
+    "timeMonth": 173,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2025-08-26": 22,
       "2025-08-27": 25,
@@ -198,7 +199,8 @@
       "2026-06-02": 615,
       "2026-06-03": 290,
       "2026-06-04": 91,
-      "2026-06-05": 445
+      "2026-06-05": 445,
+      "2026-06-06": 0
     }
   },
   {
@@ -206,17 +208,17 @@
     "url": "https://status.deadmanssnitch.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.deadmanssnitch.com.ico",
     "slug": "dead-mans-snith",
-    "status": "up",
+    "status": "down",
     "uptime": "96.56%",
-    "uptimeDay": "69.22%",
+    "uptimeDay": "69.21%",
     "uptimeWeek": "85.73%",
     "uptimeMonth": "96.72%",
     "uptimeYear": "88.26%",
     "time": 598,
-    "timeDay": 228,
-    "timeWeek": 261,
-    "timeMonth": 349,
-    "timeYear": 665,
+    "timeDay": 207,
+    "timeWeek": 251,
+    "timeMonth": 343,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2025-08-11": 22,
       "2025-08-26": 22,
@@ -279,7 +281,8 @@
       "2026-06-02": 614,
       "2026-06-03": 290,
       "2026-06-04": 91,
-      "2026-06-05": 442
+      "2026-06-05": 442,
+      "2026-06-06": 0
     }
   }
 ]
