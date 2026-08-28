@@ -22,9 +22,9 @@
     "url": "https://status.aws.amazon.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.aws.amazon.com.ico",
     "slug": "aws",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -35,7 +35,8 @@
     "timeYear": 467,
     "dailyMinutesDown": {
       "2026-04-16": 38,
-      "2026-06-06": 59
+      "2026-06-06": 59,
+      "2026-08-28": 0
     }
   },
   {
@@ -48,7 +49,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
-    "uptimeYear": "85.99%",
+    "uptimeYear": "86.00%",
     "time": 216,
     "timeDay": 64,
     "timeWeek": 102,
@@ -131,12 +132,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
-    "uptimeYear": "85.98%",
+    "uptimeYear": "85.99%",
     "time": 228,
     "timeDay": 112,
     "timeWeek": 153,
     "timeMonth": 148,
-    "timeYear": 213,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2025-08-29": 34,
       "2025-08-30": 18,
@@ -216,12 +217,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
-    "uptimeYear": "88.05%",
+    "uptimeYear": "88.06%",
     "time": 630,
     "timeDay": 419,
     "timeWeek": 2301,
     "timeMonth": 811,
-    "timeYear": 649,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2025-08-29": 34,
       "2025-08-30": 18,
